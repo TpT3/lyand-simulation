@@ -1,7 +1,7 @@
 {
   "files": {
     "main.css": "/lyand-simulation/static/css/main.f95e16c5.css",
-    "main.js": "/lyand-simulation/static/js/main.de964f28.js",
+    "main.js": "/lyand-simulation/static/js/main.69f42b52.js",
     "static/media/5.gif": "/lyand-simulation/static/media/5.89bf4619225e86e36789.gif",
     "static/media/6.gif": "/lyand-simulation/static/media/6.b3f810988e1b975c5ae9.gif",
     "static/media/3.gif": "/lyand-simulation/static/media/3.27429085006e69f87222.gif",
@@ -12,7 +12,6 @@
     "static/media/dfgtyz1.png": "/lyand-simulation/static/media/dfgtyz1.7404007db7a30a17354f.png",
     "static/media/гусь.png": "/lyand-simulation/static/media/гусь.24318e822fd00bb147ce.png",
     "static/media/quandie.png": "/lyand-simulation/static/media/quandie.c8de4d822c5c69dc3b25.png",
-    "static/media/Spamton Neo.png": "/lyand-simulation/static/media/Spamton Neo.f0bce156a95f388d4662.png",
     "static/media/спортик.ехе.png": "/lyand-simulation/static/media/спортик.ехе.3b04cef67be0abd70c4c.png",
     "static/media/juan_pujol_garcia.png": "/lyand-simulation/static/media/juan_pujol_garcia.808432cca343591d0368.png",
     "static/media/Лянд-тян.png": "/lyand-simulation/static/media/Лянд-тян.3b304a2b1088dde4419c.png",
@@ -23,10 +22,10 @@
     "static/media/MegaBasooka.png": "/lyand-simulation/static/media/MegaBasooka.61bbd5e165713ce7094f.png",
     "index.html": "/lyand-simulation/index.html",
     "main.f95e16c5.css.map": "/lyand-simulation/static/css/main.f95e16c5.css.map",
-    "main.de964f28.js.map": "/lyand-simulation/static/js/main.de964f28.js.map"
+    "main.69f42b52.js.map": "/lyand-simulation/static/js/main.69f42b52.js.map"
   },
   "entrypoints": [
     "static/css/main.f95e16c5.css",
-    "static/js/main.de964f28.js"
+    "static/js/main.69f42b52.js"
   ]
 }
